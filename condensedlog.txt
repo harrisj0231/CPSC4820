@@ -1,0 +1,847 @@
+_________
+O________
+O___X____
+O___X__O_
+O___X_XO_
+O___XOXO_
+O_X_XOXO_
+end game
+_________
+__O______
+__O_X____
+__O_X_O__
+__OXX_O__
+__OXXOO__
+__OXXOO_X
+O_OXXOO_X
+OXOXXOO_X
+OXOXXOOOX
+end game
+_________
+___O_____
+___OX____
+__OOX____
+__OOX_X__
+__OOX_XO_
+_XOOX_XO_
+OXOOX_XO_
+OXOOX_XOX
+OXOOXOXOX
+end game
+_________
+____X____
+_O__X____
+_O__X_X__
+_O_OX_X__
+_OXOX_X__
+end game
+_________
+______O__
+____X_O__
+____XOO__
+_X__XOO__
+_XO_XOO__
+_XO_XOOX_
+end game
+_________
+____O____
+__X_O____
+_OX_O____
+_OX_O__X_
+OOX_O__X_
+OOX_O__XX
+OOX_OO_XX
+OOX_OOXXX
+end game
+_________
+_____O___
+____XO___
+____XO_O_
+____XO_OX
+O___XO_OX
+OX__XO_OX
+OX__XOOOX
+OX_XXOOOX
+OXOXXOOOX
+end game
+_________
+____X____
+____X___O
+____X__XO
+O___X__XO
+OX__X__XO
+end game
+_________
+____X____
+____XO___
+X___XO___
+X___XOO__
+X___XOO_X
+end game
+_________
+____X____
+____X_O__
+____X_OX_
+____X_OXO
+_X__X_OXO
+end game
+_________
+_____O___
+____XO___
+___OXO___
+__XOXO___
+__XOXO_O_
+__XOXOXO_
+end game
+_________
+_______O_
+____X__O_
+___OX__O_
+_X_OX__O_
+_XOOX__O_
+_XOOX__OX
+OXOOX__OX
+OXOOX_XOX
+OXOOXOXOX
+end game
+_________
+____O____
+____OX___
+____OXO__
+__X_OXO__
+__X_OXO_O
+__X_OXOXO
+O_X_OXOXO
+end game
+_________
+____X____
+__O_X____
+__O_X___X
+__OOX___X
+X_OOX___X
+end game
+_________
+________O
+____X___O
+____X_O_O
+____X_OXO
+O___X_OXO
+OX__X_OXO
+end game
+_________
+_______O_
+____X__O_
+_O__X__O_
+_O_XX__O_
+_O_XX_OO_
+_O_XXXOO_
+end game
+_________
+___O_____
+___OX____
+O__OX____
+O__OX_X__
+OO_OX_X__
+OOXOX_X__
+end game
+_________
+____X____
+_O__X____
+XO__X____
+XO__X__O_
+XO__X__OX
+end game
+_________
+____X____
+____X_O__
+____X_O_X
+__O_X_O_X
+X_O_X_O_X
+end game
+_________
+__O______
+__O_X____
+__O_X_O__
+X_O_X_O__
+X_OOX_O__
+X_OOX_O_X
+end game
+_________
+____X____
+_O__X____
+_O__XX___
+OO__XX___
+OO_XXX___
+end game
+_________
+______O__
+____X_O__
+____XOO__
+____XOO_X
+_O__XOO_X
+XO__XOO_X
+end game
+_________
+________O
+____X___O
+__O_X___O
+__O_XX__O
+__O_XXO_O
+__OXXXO_O
+end game
+_________
+_____O___
+____XO___
+O___XO___
+O__XXO___
+O__XXO__O
+O_XXXO__O
+OOXXXO__O
+OOXXXOX_O
+end game
+_________
+________O
+____X___O
+O___X___O
+O___XX__O
+OO__XX__O
+OO_XXX__O
+end game
+_________
+______O__
+____X_O__
+___OX_O__
+X__OX_O__
+X__OXOO__
+X__OXOO_X
+end game
+_________
+____O____
+__X_O____
+__X_O___O
+X_X_O___O
+X_X_OO__O
+XXX_OO__O
+end game
+_________
+_____O___
+____XO___
+____XO__O
+__X_XO__O
+O_X_XO__O
+O_X_XOX_O
+end game
+_________
+____X____
+____X__O_
+_X__X__O_
+_XO_X__O_
+_XO_XX_O_
+_XO_XX_OO
+_XOXXX_OO
+end game
+_________
+___O_____
+___OX____
+___OX_O__
+X__OX_O__
+XO_OX_O__
+XO_OX_O_X
+end game
+_________
+_____O___
+____XO___
+___OXO___
+___OXO_X_
+_O_OXO_X_
+XO_OXO_X_
+XO_OXOOX_
+XO_OXOOXX
+end game
+_________
+_______O_
+____X__O_
+___OX__O_
+___OXX_O_
+O__OXX_O_
+O__OXXXO_
+O_OOXXXO_
+OXOOXXXO_
+OXOOXXXOO
+end game
+_________
+______O__
+____X_O__
+O___X_O__
+O__XX_O__
+O__XX_O_O
+O__XXXO_O
+end game
+_________
+___O_____
+___OX____
+___OX___O
+___OXX__O
+__OOXX__O
+X_OOXX__O
+XOOOXX__O
+XOOOXXX_O
+XOOOXXXOO
+end game
+_________
+____X____
+____X_O__
+_X__X_O__
+_X__X_O_O
+_X__X_OXO
+end game
+_________
+____X____
+O___X____
+O___XX___
+O_O_XX___
+O_OXXX___
+end game
+_________
+_O_______
+_O__X____
+_O_OX____
+_O_OX__X_
+_O_OXO_X_
+XO_OXO_X_
+XOOOXO_X_
+XOOOXO_XX
+end game
+_________
+________O
+____X___O
+____X_O_O
+____X_OXO
+____XOOXO
+_X__XOOXO
+end game
+_________
+________O
+____X___O
+____XO__O
+__X_XO__O
+__X_XOO_O
+__X_XOOXO
+_OX_XOOXO
+XOX_XOOXO
+XOXOXOOXO
+end game
+_________
+_O_______
+_O__X____
+_O_OX____
+XO_OX____
+XO_OX_O__
+XO_OX_O_X
+end game
+_________
+____X____
+____X__O_
+____X__OX
+O___X__OX
+OX__X__OX
+OX__XO_OX
+OXX_XO_OX
+OXX_XOOOX
+OXXXXOOOX
+end game
+_________
+____X____
+____X___O
+_X__X___O
+_X_OX___O
+_X_OX__XO
+end game
+_________
+____O____
+___XO____
+O__XO____
+O__XO___X
+O__XOO__X
+O__XOOX_X
+OO_XOOX_X
+OO_XOOXXX
+end game
+_________
+____X____
+____X___O
+____X__XO
+O___X__XO
+OX__X__XO
+end game
+_________
+____X____
+____X_O__
+____X_OX_
+____XOOX_
+_X__XOOX_
+end game
+_________
+______O__
+____X_O__
+____X_O_O
+____X_OXO
+_O__X_OXO
+_OX_X_OXO
+OOX_X_OXO
+OOXXX_OXO
+OOXXXOOXO
+end game
+_________
+________O
+____X___O
+_O__X___O
+_O__XX__O
+_OO_XX__O
+_OOXXX__O
+end game
+_________
+____X____
+__O_X____
+__O_X__X_
+__OOX__X_
+_XOOX__X_
+end game
+_________
+_______O_
+____X__O_
+____X_OO_
+____X_OOX
+__O_X_OOX
+X_O_X_OOX
+end game
+_________
+____X____
+____X_O__
+X___X_O__
+X_O_X_O__
+X_O_X_O_X
+end game
+_________
+____O____
+____O__X_
+____O_OX_
+__X_O_OX_
+__X_O_OXO
+X_X_O_OXO
+XOX_O_OXO
+XOXXO_OXO
+XOXXOOOXO
+end game
+_________
+___O_____
+___OX____
+___OX___O
+X__OX___O
+X__OXO__O
+X_XOXO__O
+XOXOXO__O
+XOXOXOX_O
+end game
+_________
+_O_______
+_O__X____
+OO__X____
+OOX_X____
+OOX_X_O__
+OOXXX_O__
+OOXXX_O_O
+OOXXXXO_O
+end game
+_________
+___O_____
+___OX____
+___OXO___
+___OXOX__
+___OXOX_O
+__XOXOX_O
+end game
+_________
+_____O___
+____XO___
+____XOO__
+X___XOO__
+X___XOOO_
+X___XOOOX
+end game
+_________
+____X____
+____X__O_
+____X__OX
+____XO_OX
+X___XO_OX
+end game
+_________
+____X____
+____X___O
+X___X___O
+X___X__OO
+X___X_XOO
+XO__X_XOO
+XO_XX_XOO
+end game
+_________
+____X____
+____X__O_
+X___X__O_
+X_O_X__O_
+X_O_X__OX
+end game
+_________
+_O_______
+_O__X____
+_O__X___O
+_O__XX__O
+OO__XX__O
+OO_XXX__O
+end game
+_________
+______O__
+____X_O__
+O___X_O__
+O__XX_O__
+O__XX_O_O
+O__XXXO_O
+end game
+_________
+____O____
+____OX___
+_O__OX___
+_O__OX_X_
+_OO_OX_X_
+XOO_OX_X_
+XOO_OXOX_
+end game
+_________
+O________
+O___X____
+O_O_X____
+OXO_X____
+OXO_X_O__
+OXO_X_OX_
+end game
+_________
+_____O___
+____XO___
+____XO__O
+__X_XO__O
+__X_XOO_O
+__X_XOOXO
+_OX_XOOXO
+XOX_XOOXO
+XOXOXOOXO
+end game
+_________
+____X____
+O___X____
+O___X___X
+O___X__OX
+O___X_XOX
+O_O_X_XOX
+OXO_X_XOX
+OXO_XOXOX
+OXOXXOXOX
+end game
+_________
+____X____
+O___X____
+OX__X____
+OX__XO___
+OX__XO_X_
+end game
+_________
+______O__
+____X_O__
+__O_X_O__
+__O_XXO__
+_OO_XXO__
+_OOXXXO__
+end game
+_________
+____X____
+__O_X____
+__O_X___X
+O_O_X___X
+OXO_X___X
+OXO_X__OX
+OXOXX__OX
+OXOXX_OOX
+OXOXXXOOX
+end game
+_________
+_______O_
+____X__O_
+O___X__O_
+O___X_XO_
+OO__X_XO_
+OOX_X_XO_
+end game
+_________
+__O______
+__O_X____
+__O_X_O__
+__OXX_O__
+__OXX_OO_
+__OXXXOO_
+end game
+_________
+____X____
+__O_X____
+__O_X_X__
+__O_X_X_O
+__O_XXX_O
+O_O_XXX_O
+O_OXXXX_O
+end game
+_________
+_____O___
+____XO___
+____XO__O
+__X_XO__O
+O_X_XO__O
+O_X_XOX_O
+end game
+_________
+_____O___
+____XO___
+__O_XO___
+__O_XO__X
+_OO_XO__X
+XOO_XO__X
+end game
+_________
+____X____
+____X_O__
+____XXO__
+O___XXO__
+O__XXXO__
+end game
+_________
+____X____
+___OX____
+__XOX____
+__XOX__O_
+__XOX_XO_
+end game
+_________
+____X____
+____XO___
+_X__XO___
+_XO_XO___
+_XO_XO_X_
+end game
+_________
+_O_______
+_O__X____
+_O__X__O_
+_O__X__OX
+_O__X_OOX
+XO__X_OOX
+end game
+_________
+_______O_
+____X__O_
+___OX__O_
+___OX__OX
+__OOX__OX
+X_OOX__OX
+end game
+_________
+____X____
+____XO___
+__X_XO___
+O_X_XO___
+O_X_XOX__
+end game
+_________
+______O__
+____X_O__
+O___X_O__
+O__XX_O__
+O__XXOO__
+OX_XXOO__
+OX_XXOO_O
+OX_XXOOXO
+end game
+_________
+____X____
+__O_X____
+__OXX____
+__OXX___O
+__OXXX__O
+end game
+_________
+____X____
+____X___O
+____XX__O
+___OXX__O
+__XOXX__O
+_OXOXX__O
+_OXOXXX_O
+end game
+_________
+____O____
+____O___X
+____O__OX
+_X__O__OX
+_XO_O__OX
+_XO_O_XOX
+OXO_O_XOX
+OXO_OXXOX
+OXOOOXXOX
+end game
+_________
+____X____
+___OX____
+_X_OX____
+_X_OX_O__
+_X_OX_OX_
+end game
+_________
+____X____
+____X__O_
+__X_X__O_
+O_X_X__O_
+O_X_X_XO_
+end game
+_________
+____X____
+____X_O__
+____XXO__
+____XXO_O
+___XXXO_O
+end game
+_________
+_______O_
+____X__O_
+____XO_O_
+__X_XO_O_
+O_X_XO_O_
+O_X_XOXO_
+end game
+_________
+____O____
+___XO____
+O__XO____
+O__XO___X
+O__XOO__X
+O__XOOX_X
+O_OXOOX_X
+O_OXOOXXX
+end game
+_________
+____X____
+____X__O_
+___XX__O_
+___XX_OO_
+___XXXOO_
+end game
+_________
+__O______
+__O_X____
+_OO_X____
+XOO_X____
+XOO_XO___
+XOO_XO__X
+end game
+_________
+___O_____
+___OX____
+___OX_O__
+X__OX_O__
+XO_OX_O__
+XO_OX_O_X
+end game
+_________
+____X____
+____X__O_
+__X_X__O_
+__X_X_OO_
+__X_X_OOX
+__X_XOOOX
+X_X_XOOOX
+end game
+_________
+____O____
+____O___X
+____OO__X
+___XOO__X
+___XOO_OX
+_X_XOO_OX
+OX_XOO_OX
+OXXXOO_OX
+OXXXOOOOX
+end game
+_________
+_O_______
+_O__X____
+OO__X____
+OOX_X____
+OOXOX____
+OOXOX_X__
+end game
+_________
+____X____
+____X_O__
+____X_OX_
+____XOOX_
+_X__XOOX_
+end game
+_________
+____X____
+___OX____
+___OXX___
+___OXX_O_
+_X_OXX_O_
+_X_OXXOO_
+_X_OXXOOX
+OX_OXXOOX
+end game
+_________
+____X____
+O___X____
+O___X___X
+O_O_X___X
+OXO_X___X
+OXOOX___X
+OXOOX__XX
+end game
+_________
+____X____
+___OX____
+___OX___X
+O__OX___X
+O__OX_X_X
+O__OXOX_X
+O__OXOXXX
+end game
+_________
+_____O___
+____XO___
+___OXO___
+___OXOX__
+_O_OXOX__
+_OXOXOX__
+end game
+_________
+_____O___
+____XO___
+____XO__O
+__X_XO__O
+__XOXO__O
+__XOXOX_O
+end game
+_________
+____X____
+____X_O__
+____X_OX_
+___OX_OX_
+_X_OX_OX_
+end game
+end game
+END OF FILE
